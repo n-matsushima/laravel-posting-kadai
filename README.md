@@ -1,1 +1,2 @@
 # laravel-posting-kadai
+あ
